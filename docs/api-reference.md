@@ -2,6 +2,7 @@
 
 ## エンドポイント一覧
 
+
 ### データ取得
 GET /api/v1/data
 
@@ -14,3 +15,6 @@ POST /api/v1/config
   "example": "data"
 }
 ```
+
+## リクエスト/レスポンス例
+
