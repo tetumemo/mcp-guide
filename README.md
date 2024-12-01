@@ -1,20 +1,17 @@
-# MCPの完全ガイド：概要から設定まで
-
-複数のネットワークチャネルを使用してデータ転送を最適化するMCP（Multi-Channel Protocol）についての包括的なガイドです。
-
-## コンテンツ
-
-- MCPの基本概念と仕組み
-- 主な特徴と利点
-- Windows環境での設定手順
-- トラブルシューティングガイド
+# MCP (Model Context Protocol) ガイド
 
 ## ドキュメント構成
+- [初期セットアップガイド](docs/getting-started.md)
+- [開発者ガイド](docs/development-guide.md)
+- [API リファレンス](docs/api-reference.md)
+- [トラブルシューティング](docs/troubleshooting.md)
 
-- `docs/`: 詳細なドキュメント
-- `config/`: 設定例とテンプレート
-- `scripts/`: インストールスクリプト
+## クイックスタート
+1. [セットアップガイド](docs/getting-started.md)を参照
+2. プリビルドサーバーのインストール
+3. 設定の確認
 
-## ライセンス
-
-MIT License
+## コミュニティ
+- イシューの報告
+- プルリクエスト
+- ディスカッション
